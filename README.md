@@ -1,4 +1,3 @@
-code
+ML_MATLAB_COURSERA_Andrew
 
-[1] ML_MATLAB: 
-[2]
+Machine Learning 机器学习，大二上的时候在Coursera 上写的作业，并且拿到了证书。
